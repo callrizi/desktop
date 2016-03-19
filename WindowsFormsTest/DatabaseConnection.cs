@@ -8,5 +8,7 @@ namespace WindowsFormsTest
 {
     class DatabaseConnection
     {
+        private void CreateConnection()
+        { }
     }
 }
